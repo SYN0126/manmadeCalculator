@@ -11,4 +11,4 @@ except ValueError:
     input("发生错误，请按回车键退出...")
 except Exception as e:
     print(e)
-    input("发生意料之外的错误，请按回车键退出...")6
+    input("发生意料之外的错误，请按回车键退出...")
